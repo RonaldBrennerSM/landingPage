@@ -449,6 +449,10 @@ footer nav{
     .textCards{
         padding-top: 40px;
     }
+
+    #DepoimentSection h2{
+        font-size: 30px;
+    }
 }
 
 @media screen and (max-width: 370px) {
